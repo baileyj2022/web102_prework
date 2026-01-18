@@ -37,10 +37,10 @@ A deropdown to sort all the games.
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlxMHNuYWV5czFmaDlvOHB1NXd2cWJ2d2d2czFwejQzaXFxbW8yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lr01CPcwkR1SPpCElJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://www.freeconvert.com/convert/video-to-gif/download
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
