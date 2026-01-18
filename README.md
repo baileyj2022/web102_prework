@@ -1,23 +1,37 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Game Heads
+Submitted by: Jolie Bailey
 
-Submitted by: **Your Name Here**
+Game Heads is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
-
-Time spent: **X** hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 * [ ] The introduction section explains the background of the company and how many games remain unfunded.
+
+The introduction section of the Game Heads website allows users to have acess to background information about the company and supports game developers. It explains how the company has been operating and displays the number of games that remain unfunded.
+
 * [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+
+The Stats section summarizes key information in a clear way. It displays the total number of individual contributions made by the backers, the total amount of money raised across all games, and highlights the top most funded games on the platform.
+
+
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+
+Our Games section initially displays all games funded by Sea Monster. Each game is has a card that has a picture, name, description and other interesting details.
+
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+
+Our Games section incldes three filtering buttons that enchance user experience by allowing the filtering of game listings. Users can choose to either view only unfunded games, only funded games, or return to viewing all games. These buttons make it easier for users to select certain games and enhance the user experience.
 
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+
+A search bar could possibly be added.
+A deropdown to sort all the games.
 
 ## Video Walkthrough
 
@@ -34,11 +48,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Figuring out and getting used to react and javascript. Its definitely a learning curve so that was the main problem while building this website.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Jolie Bailey]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
