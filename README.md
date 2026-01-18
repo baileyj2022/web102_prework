@@ -9,26 +9,26 @@ Time spent: 3.5 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
 
 The introduction section of the Game Heads website allows users to have acess to background information about the company and supports game developers. It explains how the company has been operating and displays the number of games that remain unfunded.
 
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 
 The Stats section summarizes key information in a clear way. It displays the total number of individual contributions made by the backers, the total amount of money raised across all games, and highlights the top most funded games on the platform.
 
 
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 
 Our Games section initially displays all games funded by Sea Monster. Each game is has a card that has a picture, name, description and other interesting details.
 
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 Our Games section incldes three filtering buttons that enchance user experience by allowing the filtering of game listings. Users can choose to either view only unfunded games, only funded games, or return to viewing all games. These buttons make it easier for users to select certain games and enhance the user experience.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 
 A search bar could possibly be added.
 A deropdown to sort all the games.
